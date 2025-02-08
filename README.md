@@ -12,4 +12,4 @@ This YouTube data analytics project is a comprehensive cloud-based solution desi
 In this project I have utilized a rich Kaggle dataset containing daily trending YouTube video statistics across various regions, capturing critical metrics such as video titles, channel information, publication times, views, likes, dislikes, and engagement statistics. Through Amazon QuickSight, I have developed interactive dashboards that transform complex data into actionable visualizations, enabling stakeholders to gain deep insights into video performance, trending patterns, and audience behavior. My approach emphasizes scalability, security, and comprehensive data management, making it a powerful tool for understanding YouTube video dynamics.
 
 
-![image](https://github.com/user-attachments/assets/93df4b3e-e563-4065-84b0-ec95ed77c2f3)
+![image](architecture.jpeg)
